@@ -1,3 +1,4 @@
+ipwidgets
 ipykernel
 matplotlib
 numpy
